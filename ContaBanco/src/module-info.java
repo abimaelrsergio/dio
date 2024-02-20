@@ -4,5 +4,5 @@
 /**
  * 
  */
-module desafio2 {
+module ContaBanco {
 }
